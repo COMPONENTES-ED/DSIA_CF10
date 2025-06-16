@@ -18,15 +18,15 @@
         <div class="col-12 col-md-8 col-lg-9">
           <div class="titulo-segundo">
             <h2>
-              Prueba de conocimientos sobre análisis estadístico de datos y
-              generación de gráficos.
+              Prueba de conocimientos sobre Análisis estadístico de datos y
+              generación de gráficos
             </h2>
           </div>
           <p class="mb-4">
-            Validar el conocimiento adquirido sobre recolección de datos para
-            análisis. Esto se trabaja con el propósito de buscar una dinámica de
-            razonamiento ágil sobre opciones cerradas y reafirmar un
-            conocimiento declarado dentro del componente.
+            Validar el conocimiento adquirido sobre Análisis estadístico de
+            datos y generación de gráficos. Esto se trabaja con el propósito de
+            buscar una dinámica de razonamiento ágil sobre opciones cerradas y
+            reafirmar un conocimiento declarado dentro del componente.
           </p>
           <div class="tarjeta actividad p-3">
             <div class="row justify-content-around align-items-center">
@@ -36,7 +36,7 @@
               <div class="col-auto">
                 <a
                   class="boton boton--b"
-                  :href="obtenerLink('/actividades/story.html')"
+                  :href="obtenerLink('/actividades/actividad.html')"
                   target="_blank"
                   ><span>Realizar</span><i class="fas fa-puzzle-piece"></i
                 ></a>

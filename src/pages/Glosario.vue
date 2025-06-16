@@ -49,7 +49,7 @@ export default {
         {
           termino: 'Cuartiles',
           significado:
-            'Valores que dividen un conjunto de datos ordenado en cuatro partes iguales, cada una representando el 25% de la distribución.',
+            'Valores que dividen un conjunto de datos ordenado en cuatro partes iguales, cada una representando el 25 % de la distribución.',
         },
         {
           termino: 'Cálculo de probabilidades',
